@@ -1,3 +1,2 @@
-# IOS-control-smartcar-with-accelerometer-Wemos-
-ios use accelerometer for control wemos smart car
+# IOS use accelerometer for control smartcar with Wemos
 # Backup my Project
